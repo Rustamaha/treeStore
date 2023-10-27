@@ -9,6 +9,10 @@
   "scripts": {
     "test": "jest"
   },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
   "keywords": [],
   "author": "Khudaybergenov Rustam",
   "license": "ISC",
